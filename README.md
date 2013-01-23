@@ -2,4 +2,4 @@
 已经实现的Activity
 1.SlidingActivity  ----   Activity
 2.SlidingFragmentActivity   -------   FragmentActivity
-3.SlidingListActivity    -------  ListActivity已经
+3.SlidingListActivity    -------  ListActivity
